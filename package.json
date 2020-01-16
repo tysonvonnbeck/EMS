@@ -4,7 +4,23 @@
   "description": "activity for demonstrating inquirer with mysql",
   "main": "greatBayBasic.js",
   "dependencies": {
+    "figlet": "^1.2.4",
     "inquirer": "^6.2.1",
     "mysql": "^2.16.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tysonvonnbeck/EMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tysonvonnbeck/EMS/issues"
+  },
+  "homepage": "https://github.com/tysonvonnbeck/EMS#readme"
 }
