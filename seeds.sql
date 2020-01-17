@@ -13,7 +13,7 @@ INSERT INTO roles (title, salary, department_id) VALUES ("Director", 200000, 2);
 -- add roles -- Manager(2) -- Marketing(1)
 INSERT INTO roles (title, salary, department_id) VALUES ("Manager", 120000, 2);
 -- add roles -- Lead(3) -- Marketing(1)
-INSERT INTO roles (title, salary, department_id) VALUES ("Lead", 100000, 20;
+INSERT INTO roles (title, salary, department_id) VALUES ("Lead", 100000, 2);
 -- add roles -- Employee(4) -- Marketing(1)
 INSERT INTO roles (title, salary, department_id) VALUES ("Employee", 90000, 2);
 
